@@ -1,4 +1,5 @@
-![image](https://user-images.githubusercontent.com/90848419/201461843-b4f8fc7b-1cc2-42e0-a341-24412c8e253b.png)
+![image](https://user-images.githubusercontent.com/90848419/201462936-4ec910f3-9f1c-40bf-a0a9-bae8513004d6.png)
+
 
 # IBM-Project-39129-1660397062
 # Smart Waste Management System For Metropolitan Cities
@@ -8,7 +9,7 @@
 
 TEAM ID:PNT2022TMID19409
 
-# TEAM MEMBERS
+# 👨‍💻👩‍💻TEAM MEMBERS
 
 RITHANYA.K
 
@@ -18,7 +19,7 @@ SRIMATHI.V
 
 VENKATESH MANIKANDA PRABHU
 
-# PROJECT DESCRIPTION:
+# 📜PROJECT DESCRIPTION:
 
 Garbage level detection in bins.
 
@@ -30,6 +31,6 @@ Garbage level of the bins can be monitored through a web App.
 
 We can view the location of every bin in the web application by sending GPS location from the device.
 
-# Skills Required:
+# 🎯Skills Required:
 
 BM Cloud,IBM Cloud Object Storage,Python,IBM Watson IoT Platform,Node-RED service,Cloudant DB.
